@@ -1,4 +1,4 @@
-![marriage icon](images/color-logo.png "marriage icon")
+![marriage icon](marriage.png "marriage icon")
 
 # Marriage
 
@@ -34,10 +34,13 @@ This will help you
 
 **I - Important**
 Things you don't care about, become important to you, because it's important to her.
+Example: Dress shopping.
 
-**R - **
+**R - Respect**
+1. Her thoughts - bring your work home, and ask her opinion. She is smart!
+1. Emotions
 
-**L - **
+**L - ???**
 
 
 ## Acknowledgments
