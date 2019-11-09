@@ -1,55 +1,40 @@
-![SMRTflow icon](images/color-logo.png "SMRTflow icon")
+![marriage icon](images/color-logo.png "marriage icon")
 
-# SMRTflow - Machine Learning
+# Marriage
 
-Do you want to...
-- Extract entities from a lease contract?
-- Distinguish between starting and ending dates?
-- Classify various types of contracts?
+Excellent tips for enhancing the relationship with your spouse!
 
-Then you need SMRTflow!
-# Entity Extraction Tools
+## Truth:
+Men and women are... Different!
+How different? VERY different!
+What is the difference?
+Women are relationship beings. Men are Not!
+Men need a Job!
+What is your job? Make my wife happy!
+How do you make a wife happy?
+The three A's: 
+1. Affection
+1. Attention
+1. Appreciation
 
-1. **Rasa Framework**
-Generic entity extraction. [See their docs](https://rasa.com/docs/rasa/nlu/entity-extraction/).
+Affection - 
 
-1. **Regular Expressions ("RegEx")**
-If you have a certain text pattern such as a date. 
-[See their docs](https://docs.python.org/2/library/re.html) 
-or visit the [w3schools tutorial](https://www.w3schools.com/python/python_regex.asp)
+Attention - 
 
-1. **Dateparser**
-Powerful package for date parsing in all its formats, from strings, and in multiple languages. 
-[View their docs](https://dateparser.readthedocs.io/en/latest/usage.html)
+Appreciation - Remember your wife is a G-I-R-L!
 
-1. **Spacy** [Visit link](https://spacy.io/) 
-Bert, and Prodigy for labeling.
+G - Gratitude
+Pick small things that your wife does for you, notice it, verbalize your thanks.
+This will help you 
 
-1. **NLTK**
-[Visit link](https://www.nltk.org/)
+I - Important
+Things you don't care about, become important to you, because it's important to her.
 
-1. **Lex NLP** 
-[Visit link](https://lexpredict-lexnlp.readthedocs.io/en/latest/)
+R - 
 
-1. **ContraxSuite** [Link](https://contraxsuite.com/contraxsuite/)
+L - 
 
-3. **Flair** 
-[Visit link](https://github.com/zalandoresearch/flair/blob/master/README.md)
-
-1. **Allennlp**
-[Visit main page](https://allennlp.org/) or [tutorials](https://allennlp.org/tutorials) or [GitHub repo](https://github.com/allenai/allennlp).
-
-
-## Authors
-
-* **Isaac Heller** - CEO, SMRTflow [Visit website](http://app.smrtflow.com/auth/sign-in) or on [LinkedIn](https://www.linkedin.com/in/isaacheller/)
-* **Yoel Krupnik** - CTO, SMRTflow [Visit on LinkedIn](https://www.linkedin.com/in/yoelkrupnik/)
-* **Yishai Rasowsky** - Machine Learning Engineer, SMRTflow [Visit on GitHub](https://github.com/yishairasowsky)
-
-## License
-
-To be determined...
 
 ## Acknowledgments
 
-* Omer Liberman, for his encouragement and technical support. 
+* Rabbi Aryeh Pamensky, for his encouragement and technical support. 
